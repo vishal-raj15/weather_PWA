@@ -1,3 +1,8 @@
+## this is a Progressive web app build with open weather api and reactjs
+### this app can be installed in desktop/mobile just go to given below website and click on (+) button on right side of url bar
+
+### visit https://nostalgic-hawking-9f2fef.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
